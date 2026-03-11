@@ -1,2 +1,2 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=plevf&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=plevf&theme=tokyonight" alt="mystreak"/>
